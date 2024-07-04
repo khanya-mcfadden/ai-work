@@ -1,8 +1,21 @@
+# file ignores
 node_modules
-flasky/
-my_dir
-reacty
+*.keras
+*.hd5.*
+*.h5
+*.png
+*.jpg
+*.csv
 *.zip
+# folder ingnors
+/data
+flasky/AiModel-Bilbo_Baggins-v1.0.hd5/
+flasky/checkpoint
+flasky/data/test_v2/
+reacty
 .devcontainer/
 .vscode/
-captcha_reader.ipynb
+# others
+my_dir
+
+
