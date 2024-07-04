@@ -1,0 +1,8 @@
+node_modules
+flasky/
+my_dir
+reacty
+*.zip
+.devcontainer/
+.vscode/
+captcha_reader.ipynb
