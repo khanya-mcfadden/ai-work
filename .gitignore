@@ -8,7 +8,7 @@ node_modules
 *.csv
 *.zip
 # folder ingnors
-/data
+/data1
 flasky/AiModel-Bilbo_Baggins-v1.0.hd5/
 flasky/checkpoint
 flasky/data/test_v2/
